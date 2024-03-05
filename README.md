@@ -13,7 +13,7 @@ This repository contains the Jupyter notebook and PDF file for a data analysis p
 - `SocialMediaDataAnalysis.pdf`: PDF file generated from the notebook for easy viewing.
 
 ## Contents
-- **Data Collection**: Utilized the Twitter API to extract tweets from specified categories (fitness, tech, family, beauty, etc.).
+- **Data Creation**: Utilized random to create a simulated dataset with various categories and interactions.
 - **Data Cleaning**: Cleaned and preprocessed the data to ensure consistency and accuracy.
 - **Data Analysis**: Conducted exploratory data analysis (EDA) to identify trends and patterns within each category. Calculated performance metrics and compared them to determine relative effectiveness.
 - **Data Visualization**: Created visualizations (e.g., bar charts, line plots, word clouds) to represent key findings and trends.
